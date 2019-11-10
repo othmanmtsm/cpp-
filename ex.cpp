@@ -1,5 +1,5 @@
 /**
-    TP Exercice 16 , ex.cpp
+    TP c++ , ex.cpp
     Objectif: La gestion des etudiants
 
     @author Motassim Othman - Malainine Ahmed
