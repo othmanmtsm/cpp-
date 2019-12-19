@@ -2,7 +2,7 @@
     TP c++ , Exercice 2
     Objectif: une classe qui permet de représenter des cercles
 
-    @author Motassim Othman - Malainine Ahmed
+    @author Motassim Othman - Malainine Ahmed haiba
     15/11/19 
 */
 #include <iostream>

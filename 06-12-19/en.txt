@@ -1,0 +1,19 @@
+on souhaite developer une application dont le service des mines peut exploiter pour gerer les voitures et leurs proprietaires
+pour cela on dispose de deux classes personne et vehicule connaissant qu'une personne peut avoir plusieurs vehicule
+chaque vehicule est represanté par un matricule dans le format est composé d'un numero en premier, une lettre et les negatifs de la ville
+sachant que ce dernier est representé tous le temps par deux nombres, un type, la date de sortie, et les methodes suivantes:
+    - Un constructeur
+    - Saisie
+    - Affichage
+    - Getters/Setters
+pour la deuxieme class : 
+en represente une personne par le nom, CIN, annee de naissance ainsi qu'un ensemble de vehicules
+    - Une methode ajouter vehicule qui permetra d'ajouter dynamiquement des vehicules
+    - Une methode d'affichage
+    et bien d'autre methodes
+dans la fonction main:
+    creer un ensemble de personnes (6 personnes) en affectant a chaqu'un au moin deux vehicules de different type
+    chercher et afficher les personnes qui on au moins une moto
+    chercher et afficher les personnes qui on au moins une vehicule enregistré a marrakech
+    chercher et afficher le nombre de voitures enregistré
+    modifier tous les vehicules dont le matricule contient un A avec un B
